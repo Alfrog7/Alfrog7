@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Alfredo Guzmán 👋</h1>
 
 <p align="center">
-  <b>Desarrollador de software full-stack y móvil</b><br>
-  Construyo landings, sistemas web y apps Android para empresas reales: del diseño de la base de datos al despliegue.
+  <b>Desarrollador de software full-stack</b><br>
+  Desarrollo backend, frontend y landings para empresas reales: del diseño de la base de datos al despliegue.
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 ### Sobre mí
 
 - Trabajo en proyectos para clientes desde las organizaciones **CorAll Software**, **Sauro Dev** y **Codlix**.
-- Mi día a día: **TypeScript** (Astro, Angular, Preact), **Java / Spring Boot** para APIs y **Kotlin / Jetpack Compose** para Android.
-- También he trabajado con **Python** en deep learning (clasificación de imágenes) y con **ESP32** en proyectos IoT.
+- Mi día a día: **backend** con Java / Spring Boot y APIs REST, **frontend** con TypeScript (Angular, Astro, Preact) y **landings** a medida.
+- También he trabajado con **Kotlin** en Android, **Python** en deep learning (clasificación de imágenes) y **ESP32** en proyectos IoT.
 - Me importa el código mantenible: arquitectura limpia, migraciones versionadas, pruebas y despliegue con Docker.
 
 ### Tecnologías
